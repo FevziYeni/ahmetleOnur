@@ -21,7 +21,8 @@ const Home: React.FC = () => {
         />
         <meta
           name="keywords"
-          content="Yeni RM İnşaat, kentsel dönüşüm, inşaat firması, konut projeleri, İstanbul, müteahhit, yarısı bizden"
+          content="yeni rm, yeni rm inşaat, bayrampaşa inşaat, bayrampaşa müteahhit, bayrampaşa konut projeleri, istanbul müteahhit firmaları, toplu konut bayrampaşa, bayrampaşa yapı firmaları, istanbul inşaat firmaları, güvenilir müteahhit, kurumsal müteahhit, bayrampaşa kentsel dönüşüm, yeni konut projeleri, inşaat şirketi istanbul, yeni rm yapı, kaliteli konut projeleri, uygun fiyatlı konutlar, proje geliştirme firması, anahtar teslim inşaat, toplu konut müteahhit, modern konut projeleri, bayrampaşa yapı denetim, mimari proje firmaları, müteahhitlik hizmetleri, konut projeleri 2025, yeni yapılan konutlar, istanbul konut projeleri, bayrampaşa apartman yapımı, yeni rm mimarlık, inşaat projeleri istanbul, güvenilir yapı firması, lüks konut inşaat, yapı müteahhidi, bayrampaşa bina yenileme
+"
         />
         <meta property="og:title" content="Yeni RM İnşaat" />
         <meta
