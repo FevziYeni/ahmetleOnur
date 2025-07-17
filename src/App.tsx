@@ -15,7 +15,7 @@ const App: React.FC = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    const timeout = setTimeout(() => setLoading(false), 2000); // 2 saniye sonra siteyi göster
+    const timeout = setTimeout(() => setLoading(false), 3000); // 2 saniye sonra siteyi göster
     return () => clearTimeout(timeout);
   }, []);
 
